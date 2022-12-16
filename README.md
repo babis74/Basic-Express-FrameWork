@@ -1,6 +1,9 @@
-![Screenshot 2022-12-15 140431](https://user-images.githubusercontent.com/72227584/207855474-a5688a8e-8407-4be0-8422-0b5c0f92c2ed.png)
+![home](https://user-images.githubusercontent.com/72227584/208058867-db8ab9bf-0b9c-4623-90f2-876d8ce5b02e.png)
 
-Ανάπτυξη ένος βασικού Framework με Node-Express και Handlebars σαν template engine για την ανάπτυξη δυναμικών Website και εφαρμογών 
+![About](https://user-images.githubusercontent.com/72227584/208058880-e9696721-3d42-4855-8813-8614826e8a02.png)
+
+
+Ανάπτυξη ένος βασικού Framework με Node-Express και Handlebars σαν template engine για την ανάπτυξη δυναμικών Website και εφαρμογών. Η σελίδα περιλαμβάνει 2 routes (home/about) στην δε about μπηκε δυναμικο περιεχόμενο με καθε refresh
 
 1. Εγκατάσταση Express 
 
