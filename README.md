@@ -15,11 +15,11 @@ npm install --save express
 
 app.get('/', function(req, res){
 res.type('text/plain');
-res.send('Meadowlark Travel');
+res.send('Welcome to Epirus news Agency');
 });
 app.get('/about', function(req, res){
 res.type('text/plain');
-res.send('About Meadowlark Travel');
+res.send('About Epirus news Agency');
 });
 // custom 404 page
 app.use(function(req, res, next){
